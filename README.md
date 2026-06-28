@@ -105,10 +105,14 @@ High-level metrics display Total Sales, Total Profit, Target Achievement %, and 
 Steps to Access:
 Ensure Power BI Desktop is installed before accessing the dashboard file. Latest version recommended for full feature compatibility.
 
-Download Power BI Desktop: Visit the Microsoft Power BI official site and download the latest version
-Install Application: Run the installer and follow on-screen prompts to complete setup
-Verify Installation: Open Power BI Desktop. Go to Help > About to confirm version is current
-Launch Dashboard: Open the provided .pbix file by double-clicking or using File > Open in Power BI Desktop
-Refresh Data: Click Home > Refresh if prompted to update data connections
+**Download Power BI Desktop:** Visit the Microsoft Power BI official site and download the latest version
+
+**Install Application:** Run the installer and follow on-screen prompts to complete setup
+
+**Verify Installation:** Open Power BI Desktop. Go to Help > About to confirm version is current
+
+**Launch Dashboard:** Open the provided .pbix file by double-clicking or using File > Open in Power BI Desktop
+
+**Refresh Data:** Click Home > Refresh if prompted to update data connections
 
               Thank You
